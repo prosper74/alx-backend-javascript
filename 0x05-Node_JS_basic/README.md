@@ -1,1 +1,3 @@
 # Node Js Basic
+
+Node.js is a powerful, open-source, cross-platform JavaScript runtime environment that allows developers to run JavaScript code on the server-side, outside of a browser. Built on Google Chrome's V8 JavaScript engine, it is event-driven, non-blocking, and operates asynchronously, making it ideal for building scalable, high-performance applications like real-time services (e.g., chat applications, APIs, and streaming servers). Node.js excels in handling many concurrent connections with minimal overhead, and it uses npm (Node Package Manager) for easy management of external libraries and dependencies.
